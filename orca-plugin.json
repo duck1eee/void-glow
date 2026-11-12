@@ -2,7 +2,7 @@
   "manifestVersion": 2,
   "id": "void-glow",
   "name": "Void Glow",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A near-black deep-space theme with a realistic starfield and drifting cosmic dust wallpaper, plus a pure OLED black variant. To see the wallpaper, set \"Background Opacity\" below 1 and turn off \"Reduce Visual Effects\".",
   "author": {
     "name": "duck1eee",
