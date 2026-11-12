@@ -10,6 +10,11 @@
   },
   "repository": "https://github.com/duck1eee/void-glow",
   "license": "MIT",
+  "icon": "images/icon.png",
+  "cover": {
+    "path": "images/cover.png",
+    "alt": "Void Glow: a near-black sky with a violet and teal nebula and a starfield"
+  },
   "engines": {
     "orca": ">=1.4.246"
   },

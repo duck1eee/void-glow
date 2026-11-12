@@ -1,5 +1,7 @@
 # Void Glow
 
+![Void Glow wallpaper](images/cover.png)
+
 A near-black deep-space theme for [Orca](https://github.com/stablyai/orca): a realistic starfield with
 drifting cosmic dust as a looping wallpaper, a matching terminal palette, and a pure OLED black variant.
 
