@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "base": "dark",
+  "tokens": {
+    "--background": "#000000",
+    "--foreground": "#e6e6f0",
+    "--card": "#0a0a0a",
+    "--popover": "#0e0e0e",
+    "--sidebar": "#000000",
+    "--primary": "#a99cff",
+    "--primary-foreground": "#050507",
+    "--accent": "#181818",
+    "--accent-foreground": "#f0eeff",
+    "--muted-foreground": "#9a9ab0",
+    "--border": "#222222",
+    "--ring": "#a99cff"
+  },
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#6e6e8a",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "storage"
+      ],
+      "settings": {
+        "foreground": "#c58cff"
+      }
+    },
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#8fe0b0"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric"
+      ],
+      "settings": {
+        "foreground": "#ffb86b"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#8fb4ff"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+        "support.type"
+      ],
+      "settings": {
+        "foreground": "#7fdcff"
+      }
+    }
+  ]
+}

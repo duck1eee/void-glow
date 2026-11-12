@@ -1,0 +1,48 @@
+{
+  "manifestVersion": 2,
+  "id": "void-glow",
+  "name": "Void Glow",
+  "version": "0.1.0",
+  "description": "A near-black deep-space theme with a realistic starfield and drifting cosmic dust wallpaper, plus a pure OLED black variant. To see the wallpaper, set \"Background Opacity\" below 1 and turn off \"Reduce Visual Effects\".",
+  "license": "MIT",
+  "engines": {
+    "orca": ">=1.4.246"
+  },
+  "execution": "data",
+  "contributes": {
+    "themes": [
+      {
+        "id": "void-glow",
+        "title": "Void Glow",
+        "path": "themes/void-glow.json"
+      },
+      {
+        "id": "void-glow-sidebar-dark",
+        "title": "Void Glow (dark sidebar)",
+        "path": "themes/void-glow-sidebar-dark.json"
+      },
+      {
+        "id": "void-glow-sidebar-light",
+        "title": "Void Glow (light sidebar)",
+        "path": "themes/void-glow-sidebar-light.json"
+      },
+      {
+        "id": "void-glow-oled",
+        "title": "Void Glow OLED (pure black)",
+        "path": "themes/void-glow-oled.json"
+      }
+    ],
+    "terminalThemes": [
+      {
+        "id": "void-glow-term",
+        "title": "Void Glow",
+        "path": "terminal/void-glow.json"
+      },
+      {
+        "id": "void-glow-oled-term",
+        "title": "Void Glow OLED",
+        "path": "terminal/void-glow-oled.json"
+      }
+    ]
+  }
+}

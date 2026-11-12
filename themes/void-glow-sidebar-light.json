@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "base": "dark",
+  "tokens": {
+    "--background": "#050507",
+    "--foreground": "#e6e6f0",
+    "--card": "#0d0d12",
+    "--popover": "#111118",
+    "--sidebar": "#fafafa",
+    "--primary": "#a99cff",
+    "--primary-foreground": "#050507",
+    "--accent": "#1a1830",
+    "--accent-foreground": "#f0eeff",
+    "--muted-foreground": "#9a9ab0",
+    "--border": "#26263a",
+    "--ring": "#a99cff",
+    "--sidebar-foreground": "#0a0a0a",
+    "--sidebar-primary": "#171717",
+    "--sidebar-primary-foreground": "#fafafa",
+    "--sidebar-accent": "#f5f5f5",
+    "--sidebar-accent-foreground": "#171717",
+    "--sidebar-border": "#e5e5e5",
+    "--sidebar-ring": "#a1a1a1"
+  },
+  "background": {
+    "path": "images/void-glow.png",
+    "videoPath": "images/void-glow.mp4",
+    "opacity": 1,
+    "size": "cover",
+    "position": "center"
+  },
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#6e6e8a",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "storage"
+      ],
+      "settings": {
+        "foreground": "#c58cff"
+      }
+    },
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#8fe0b0"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric"
+      ],
+      "settings": {
+        "foreground": "#ffb86b"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#8fb4ff"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+        "support.type"
+      ],
+      "settings": {
+        "foreground": "#7fdcff"
+      }
+    }
+  ]
+}
