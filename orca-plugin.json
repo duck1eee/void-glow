@@ -4,6 +4,11 @@
   "name": "Void Glow",
   "version": "0.1.0",
   "description": "A near-black deep-space theme with a realistic starfield and drifting cosmic dust wallpaper, plus a pure OLED black variant. To see the wallpaper, set \"Background Opacity\" below 1 and turn off \"Reduce Visual Effects\".",
+  "author": {
+    "name": "duck1eee",
+    "url": "https://github.com/duck1eee"
+  },
+  "repository": "https://github.com/duck1eee/void-glow",
   "license": "MIT",
   "engines": {
     "orca": ">=1.4.246"
